@@ -1,5 +1,25 @@
 body{
 background-color: #bcf6f8;
 display:flex;
+justify-content:center;
+align-items:center;
+height: 700px;
+margin: 0;
+
+
+}
+
+button {
+     background-color: blue;
+     color: #f8f8f8;
+    font-family: "Bai Jamjuree", sans-serif;
+
+}
+
+.passo{
+    display: none;
+
+
+
 
 }
